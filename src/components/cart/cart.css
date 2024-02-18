@@ -1,0 +1,28 @@
+.order-var{
+    border: 1px solid black;
+    padding: 5px;
+    margin: 10px;
+    border-radius:20px ;
+}
+.order-var h4{
+    color: blue;
+}
+.total-price{
+    font-size: larger;
+    font-weight: 400;
+    color: purple;
+
+}
+.order-var button{
+    color: black;
+    background-color: goldenrod;
+    width: 150px;
+    height: 30px;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: larger;
+    border: 1px solid lightblue;
+    border-radius: 5px;
+    cursor: pointer;
+    
+}
