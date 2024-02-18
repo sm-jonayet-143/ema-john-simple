@@ -1,0 +1,15 @@
+.shop-container {
+    display: inline;
+
+}
+
+.product-container {
+    width: 70%;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-left: 2px solid lightgray;
+}
+
+.cart-container {
+    /* margin-left: 30px; */
+}
